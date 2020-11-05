@@ -1,0 +1,27 @@
+.im-group-chat-footer {
+    position: fixed;
+    bottom: 0;
+    padding: .8rem;
+    background-color: #f6f6f6;
+    width: 93%;
+}
+.im-group-chat-footer-content {
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+.im-group-chat-footer-voice-button,
+.im-group-chat-footer-face-button,
+.im-group-chat-footer-plus-button {
+    width: 2rem;
+    height: 2rem;
+}
+.im-group-chat-footer-input {
+    width: 65%;
+    border-radius: .4rem;
+    background-color: #fff;
+    height: 2.4rem;
+    margin: 0 .4rem;
+}

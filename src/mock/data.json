@@ -1,0 +1,70 @@
+[
+    {
+        "type": "text",
+        "playload": {
+            "content": "这群小小的人，三年前还都装在肚子里，太奇妙了，现在都混世魔王了😂 😂 😂"
+        },
+        "userInfo": {
+            "nick": "马化腾",
+            "avatar": "../assets/avatar/mahuateng.png"
+        }
+    },
+    {
+        "type": "voice",
+        "playload": {
+            "duration": 10
+        },
+        "userInfo": {
+            "nick": "马云",
+            "avatar": "../assets/avatar/mahuateng.png"
+        }
+    },
+    {
+        "type": "pic",
+        "playload": {
+            "image": "../assets/source/O1CN01z99sqQ2Jb6ycp0H6v_!!1026319439.jpg"
+        },
+        "userInfo": {
+            "nick": "马云",
+            "avatar": "../assets/avatar/mayun.png"
+        }
+    },
+    {
+        "type": "text",
+        "playload": {
+            "content": "小马你说的很有道理 😛 😛"
+        },
+        "userInfo": {
+            "nick": "马云",
+            "avatar": "../assets/avatar/mayun.png"
+        }
+    },
+    {
+        "type": "text",
+        "playload": {
+            "content": "你们说的都对！！！👍 👍"
+        },
+        "userInfo": {
+            "nick": "hifoxwei",
+            "avatar": "../assets/avatar/hifoxwei.png"
+        }
+    },
+    {
+        "type": "time",
+        "playload": {
+            "timestame": "Yesterday 19:33"
+        }
+    },
+    {
+        "type": "notice",
+        "playload": {
+            "content":  "您已添加了hifoxwei，现在可以开始聊天了"
+        }
+    },
+    {
+        "type": "notice",
+        "playload":{
+            "content": "你撤回了一条消息"
+        }
+    }
+]

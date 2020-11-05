@@ -1,0 +1,14 @@
+.group-chat-card-text {
+    display: flex;
+    flex-direction: row;
+}
+.group-chat-card-text-content {
+    background-color: #ffffff;
+    padding: .5rem;
+    border-radius: .6rem;
+    font-size: .9rem;
+    line-height: 1.3rem;
+}
+.group-chat-card-text-left {
+    max-width: 12rem;
+}

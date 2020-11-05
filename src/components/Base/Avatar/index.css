@@ -1,0 +1,8 @@
+.group-chat-card-avatar {
+    margin-right: .8rem;
+}
+.group-chat-card-avatar-img {
+    width: 3rem;
+    height: 3rem;
+    border-radius: .4rem;
+}
